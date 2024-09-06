@@ -32,3 +32,5 @@ Praktikum/.vs/Praktikum/v17/DocumentLayout.backup.json
 Praktikum/.vs/Praktikum/v17/.suo
 Praktikum/.vs/Praktikum/FileContentIndex/57ac503c-92a9-4949-9779-f4b4d73ae30a.vsidx
 Praktikum/.vs/Praktikum/ColorByRegexConfig.txt
+*.vsidx
+*.v2
