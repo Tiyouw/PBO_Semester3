@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 using System.Runtime.CompilerServices;
 
 class Program
@@ -7,6 +8,9 @@ class Program
     {
         Mobil mobil1 = new Mobil("Toyota", "Canny", 2021);
         Mobil mobil2 = new Mobil("Honda", "Jazz", 1998);
+
+        Mobil.roda = 4;
+        Console.WriteLine(Mobil.penjumlahan(5,3));
 
         //mobil1.tampilkanMobil("Toyota", "Canny", 2021);
         //mobil2.merk = "Honda";
@@ -22,6 +26,7 @@ class Mobil
 {
     public string merk, model;
     public int tahun;
+    public static int roda;
 
     public Mobil(string merk, string model, int tahun)
     {
@@ -30,14 +35,19 @@ class Mobil
         this.tahun = tahun;
     }
 
+
+
     //    public void tampilkanMobil(string merk,string model,int tahun) {
     //        Console.WriteLine("Merk : " + merk);
     //        Console.WriteLine($"Model : {model}");
     //        Console.WriteLine($"Tahun : {tahun}");
     //    }
     //}
-
-    public void tampilkanMobil()
+    public static int penjumlahan(int a, int b)
+    {
+        return a + b;
+    }
+    public void  tampilkanMobil()
     {
         Console.WriteLine("Merk : " + this.merk);
         Console.WriteLine("Model : " + this.model);
