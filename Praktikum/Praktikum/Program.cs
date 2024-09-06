@@ -10,7 +10,7 @@ class Program
         Mobil mobil2 = new Mobil("Honda", "Jazz", 1998);
 
         Mobil.roda = 4;
-        Console.WriteLine(Mobil.penjumlahan(5,3));
+        //Console.WriteLine(Mobil.penjumlahan(5,3));
 
         //mobil1.tampilkanMobil("Toyota", "Canny", 2021);
         //mobil2.merk = "Honda";
