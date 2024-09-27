@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DosenAja\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DosenAja\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\DosenAja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DosenAja\\DosenAja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +51,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Class.cs",
+              "RelativeDocumentMoniker": "DosenAja\\Class.cs",
+              "ToolTip": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Class.cs",
+              "RelativeToolTip": "DosenAja\\Class.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:27:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DosenAja.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\DosenAja.csproj",
+              "RelativeDocumentMoniker": "DosenAja\\DosenAja.csproj",
+              "ToolTip": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\DosenAja.csproj",
+              "RelativeToolTip": "DosenAja\\DosenAja.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T13:18:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Program.cs",
+              "RelativeDocumentMoniker": "DosenAja\\Program.cs",
+              "ToolTip": "D:\\Kuliah\\PBO_Semester3\\Dosenn\\DosenAja\\Program.cs",
+              "RelativeToolTip": "DosenAja\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:18:10.274Z"
             }
           ]
         }

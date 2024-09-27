@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DosenAja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95fd492bcacdc839c69b01c88e2d89a680cecd4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfaa923bfa7e9eb6014d9effb2ea6a4914ea48a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DosenAja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DosenAja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
